@@ -1,9 +1,45 @@
 module.exports = {
     base: "/blog/",
-    title: '周健的个人博客',
+    title: 'Jian Zhou',
+    
     description: 'show time！',
+    serviceWorker: true,
     themeConfig: {
-        displayAllHeaders: true,
-        sidebar: 'auto',
+        lastUpdated: 'Last Updated', // string | boolean
+        // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
+        repo: 'jianzhouf',
+        sidebar: {
+            '/JavaScript/': [
+                '', 
+                'promise', 
+            ],
+
+            '/CSS/': [
+                '',
+                'ThreeColumnLayout', 
+            ],
+
+            // fallback
+            '/': [
+                '', 
+            ]
+        },
+        nav: [{
+                text: '博客',
+                items: [{
+                        text: 'JavaScript',
+                        link: '/JavaScript/'
+                    },
+                    {
+                        text: 'CSS',
+                        link: '/CSS/'
+                    }
+                ]
+            },
+            {
+                text: '简历',
+                link: 'https://jianzhouf.github.io/resume/'
+            }
+        ]
     }
 }
