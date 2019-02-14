@@ -107,8 +107,7 @@ section aside.right{
 }
 ```
 
-![An image](./threeColumnLayout1.png)
-
+<img :src="$withBase('/threeColumnLayout1.png')" alt="hahaha">
 
 ```html
 <!DOCTYPE html>
@@ -226,5 +225,5 @@ footer{
   clear: both;
 }
 ```
-![An image](./threeColumnLayout2.png)
+<img :src="$withBase('/threeColumnLayout2.png')" alt="hahaha">
 
