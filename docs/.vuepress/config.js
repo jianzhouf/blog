@@ -18,6 +18,9 @@ module.exports = {
                 '',
                 'ThreeColumnLayout', 
             ],
+            '/HTTP/': [
+                '',
+            ],
 
             // fallback
             '/': [
@@ -33,6 +36,10 @@ module.exports = {
                     {
                         text: 'CSS',
                         link: '/CSS/'
+                    },
+                    {
+                        text: 'HTTP',
+                        link: '/HTTP/'
                     }
                 ]
             },

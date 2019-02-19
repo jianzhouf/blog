@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "8315efa5b075e4fef599d1b4fe852211"
+    "revision": "12d2f0823e308578de97c2035737239f"
   },
   {
     "url": "assets/css/0.styles.bad3de2e.css",
@@ -36,56 +36,64 @@ self.__precacheManifest = [
     "revision": "7378a2249c685e8aba5b1f3e44dba1d8"
   },
   {
-    "url": "assets/js/3.0c763d24.js",
-    "revision": "030c0ead899a0de4365bd67d6abc7e60"
+    "url": "assets/js/3.eaa22188.js",
+    "revision": "158f142172a7e9b9f04a25b742a0e932"
   },
   {
-    "url": "assets/js/4.be6e2b8f.js",
-    "revision": "80e6cbe1d4134bebb09ad210dfd74391"
+    "url": "assets/js/4.c0dc786c.js",
+    "revision": "141a803c9b7a4b57bdd5147bfdc38d64"
   },
   {
-    "url": "assets/js/5.554b337d.js",
-    "revision": "5e09ca6f3497226180b8a7570ac4d2b1"
+    "url": "assets/js/5.446e71b4.js",
+    "revision": "d61aafd2237b6cb09c143d5840cb2be1"
   },
   {
-    "url": "assets/js/6.b9730622.js",
-    "revision": "97fca75c78647d0d874b9fbb2e785296"
+    "url": "assets/js/6.8f313190.js",
+    "revision": "d147348a7927ad2a60f55bf241316d9b"
   },
   {
-    "url": "assets/js/7.34c02bad.js",
-    "revision": "cb841bbb7ba5519f7261ad09189eb99c"
+    "url": "assets/js/7.5756feb1.js",
+    "revision": "8101e63e48390ddf8b3ecb4e7028ab31"
   },
   {
-    "url": "assets/js/8.bd45e8df.js",
-    "revision": "96e584c7b994a13aa55791c93c33f368"
+    "url": "assets/js/8.cd810289.js",
+    "revision": "505ffd4d4935a88f03d8ba112bd2f250"
   },
   {
-    "url": "assets/js/app.a7f82e82.js",
-    "revision": "ca216bda7fba536e4dee14a51530f765"
+    "url": "assets/js/9.4c178180.js",
+    "revision": "1f7d64e683db05eb1dc587b15591d76d"
+  },
+  {
+    "url": "assets/js/app.f85fb3c1.js",
+    "revision": "371695fbb8f0e820be2271f127f758a1"
   },
   {
     "url": "CSS/index.html",
-    "revision": "a7e5f09b4c88b97166c82585eae15af6"
+    "revision": "25bf994cfeaa44e04fe2cb82d51c25ae"
   },
   {
     "url": "CSS/ThreeColumnLayout.html",
-    "revision": "5da2bb14479bab59176993c0b77e2f17"
+    "revision": "ebed9e31217613a692115e8feb1c84e0"
   },
   {
     "url": "hero.jpg",
     "revision": "401e29a186894bae76d9b123d49d8b58"
   },
   {
+    "url": "HTTP/index.html",
+    "revision": "0ee79cef0775d835b71f572b18908ed7"
+  },
+  {
     "url": "index.html",
-    "revision": "01e06b96e8afbfffcc0d92a3f675df33"
+    "revision": "2a2abe44671080641fbd551dcbdf4175"
   },
   {
     "url": "JavaScript/index.html",
-    "revision": "0562cebed9ab6dc4cf725b49e2ee26a6"
+    "revision": "55a8d66d7579f3a256239428f4625ade"
   },
   {
     "url": "JavaScript/promise.html",
-    "revision": "59c868387b9978a3dd4f94a0af351d5c"
+    "revision": "ced388eefdaf4b66fa4f327c32105897"
   },
   {
     "url": "threeColumnLayout1.png",
