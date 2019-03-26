@@ -12,6 +12,7 @@ module.exports = {
             '/JavaScript/': [
                 '', 
                 'promise', 
+                'extends',  
             ],
 
             '/CSS/': [
